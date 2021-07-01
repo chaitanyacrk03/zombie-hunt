@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zombie-hunt/static/css/main.838d87b0.chunk.css",
+    "main.js": "/zombie-hunt/static/js/main.d0855ed5.chunk.js",
+    "main.js.map": "/zombie-hunt/static/js/main.d0855ed5.chunk.js.map",
+    "runtime-main.js": "/zombie-hunt/static/js/runtime-main.18b22025.js",
+    "runtime-main.js.map": "/zombie-hunt/static/js/runtime-main.18b22025.js.map",
+    "static/js/2.852f9166.chunk.js": "/zombie-hunt/static/js/2.852f9166.chunk.js",
+    "static/js/2.852f9166.chunk.js.map": "/zombie-hunt/static/js/2.852f9166.chunk.js.map",
+    "static/js/3.ea476eb2.chunk.js": "/zombie-hunt/static/js/3.ea476eb2.chunk.js",
+    "static/js/3.ea476eb2.chunk.js.map": "/zombie-hunt/static/js/3.ea476eb2.chunk.js.map",
+    "index.html": "/zombie-hunt/index.html",
+    "static/css/main.838d87b0.chunk.css.map": "/zombie-hunt/static/css/main.838d87b0.chunk.css.map",
+    "static/js/2.852f9166.chunk.js.LICENSE.txt": "/zombie-hunt/static/js/2.852f9166.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18b22025.js",
+    "static/js/2.852f9166.chunk.js",
+    "static/css/main.838d87b0.chunk.css",
+    "static/js/main.d0855ed5.chunk.js"
+  ]
+}
